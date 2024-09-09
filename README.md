@@ -1,4 +1,4 @@
-## Hi there, this is the profile for Camille! 👋
+## This is the profile for Camille! 👋
 
 ⚡ Fun fact: My favorite book genre is romantasy <3
 
