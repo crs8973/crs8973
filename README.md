@@ -1,8 +1,9 @@
-## This is the profile for Camille! 👋
+## Welcome to Camille's Profile! 👋
 
 ⚡ Fun fact: My favorite book genre is romantasy <3
 
 🌱 I’m currently learning how GitHub works :3
+
 
 <!--
 **crs8973/crs8973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
