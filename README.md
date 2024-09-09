@@ -1,4 +1,5 @@
 ## Welcome to Camille's Profile! 👋
+I am an Applied Coastal and Ocean Sciences Ph.D. student working with Dr. Nooner in the Crustal Dynamics and Geophysics Laboratory.
 
 ⚡ Fun fact: My favorite book genre is romantasy <3
 
